@@ -3,8 +3,7 @@ platform in Bangladesh.I feel proud to work with them.
 
 
 ## Technologies : 
-- Client Side: React Js,Tailwnd CSS,Redux, Node JS , Express JS, Mongo DB.
-- Admin Dashboard : React Js,Tailwnd CSS,Redux, Node JS , Express JS, Mongo DB.
+- Client Side: React Js,Tailwnd CSS,Redux, Node JS , Express JS, Mongo DB,JWT.
   
 ## Features: 
 - Awesome User Interface
@@ -20,7 +19,7 @@ platform in Bangladesh.I feel proud to work with them.
 ## 💻 Developed By
 
 ![Developer PIC](https://avatars.githubusercontent.com/u/73340940?s=48&v=4) 
-- Abtahi & Arefin
+- Abtahi
 
 ## 🚀 Connect with me
 
