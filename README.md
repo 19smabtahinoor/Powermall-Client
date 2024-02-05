@@ -14,6 +14,7 @@ platform in Bangladesh.I feel proud to work with them.
 - Product Search, Filter, Order Track
 - Transaction Details
 - Auto Invoice Generator
+- Chat with Authority
 - etc.
 
 ## 💻 Developed By
