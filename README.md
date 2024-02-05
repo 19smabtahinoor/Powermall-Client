@@ -18,7 +18,8 @@ platform in Bangladesh.I feel proud to work with them.
 
 ## 💻 Developed By
 
-![Developer PIC](https://avatars.githubusercontent.com/u/73340940?s=48&v=4)
+![Developer PIC](https://avatars.githubusercontent.com/u/73340940?s=48&v=4) 
+- Abtahi & Arefin
 
 ## 🚀 Connect with me
 
